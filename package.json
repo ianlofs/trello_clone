@@ -1,5 +1,5 @@
 {
-  "name": "groceries",
+  "name": "trello clone",
   "version": "1.0.0",
   "description": "App for grocery stores to use that allows them to receive orders online for pickup.",
   "main": "index.js",
